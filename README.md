@@ -5,8 +5,11 @@ Charts with requested data are displayed.
 Prerequisites:
 
 -Python 3.9.7
+
 -tkinter
+
 -pyodbc
+
 -pandas
 
 The database:
