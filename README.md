@@ -1,4 +1,4 @@
-This desktop application displayes meteorological data trend changes in forms of charts.
+This desktop application displayes meteorological data trend changes in form of charts.
 User selects data settings and click "Reload" buton.
 Charts with requested data are displayed.
 
