@@ -19,8 +19,8 @@ CREATE TABLE [dbo].[Weather_Info](
 [Total_precipitation] [int] NOT NULL,
 [Pressure] [int] NOT NULL,
 [Solar_radiation_intensity] [int] NOT NULL,
-[Location] varchar(50) NOT NULL,
-[Day_or_night] varchar(50) NOT NULL
+[Location] varchar (50) NOT NULL,
+[Day_or_night] varchar (50) NOT NULL
 )
 
 How to run:
